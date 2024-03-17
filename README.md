@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @SusanPoudel
 - 👀 I’m interested in web development 
 - 💞️ I’m looking to collaborate on Something new
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SusanPoudel&label=Profile%20views&color=0e75b6&style=flat" alt="SusanPoudel" /> </p>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=SusanPoudel&theme=light)
 ![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susanpoudel&theme=show_icons=true)
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Susanpoudel&show_icons=true&locale=en&layout=compact" alt="Susanpoudel" />
