@@ -12,4 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cpp,java,php,git,github,linux,mysql,vscode,react)]()
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SusanPoudel&theme=light&hide)](https://git.io/streak-stats)
-<img src="https://github.com/SusanPoudel/SusanPoudel/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake">
+
+<p align="left"><img src="https://github.com/SusanPoudel/SusanPoudel/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake"></p>
+
