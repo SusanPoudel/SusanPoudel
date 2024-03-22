@@ -14,5 +14,5 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SusanPoudel&theme=light&hide)](https://git.io/streak-stats)
 
-<p align="left"><img src="https://github.com/SusanPoudel/SusanPoudel/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"></p>
+<p align="left"><img src="https://github.com/SusanPoudel/SusanPoudel/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake"></p>
 
