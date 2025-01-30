@@ -2,7 +2,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @SusanPoudel
 - 👀 I’m interested in web development 
-- 💞️ I’m looking to collaborate on Something new
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SusanPoudel&label=Profile%20views&color=0e75b6&style=flat" alt="SusanPoudel" /> </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SusanPoudel&theme=light)
